@@ -7,7 +7,7 @@ Clone the repository and run the following command:
 
 ```bash
 git clone https://github.com/Barkaaat/GitHub-User-Activity.git
-cd github-user-activity
+cd GitHub-User-Activity
 ```
 
 Run the following command to list the activities of a user:
