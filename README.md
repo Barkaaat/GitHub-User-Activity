@@ -13,6 +13,8 @@ cd github-user-activity
 Run the following command to list the activities of a user:
 
 ```bash
-# node index.js <username>
+# node app.js
+# <username>
 node app.js
+Barkaaat
 ```
